@@ -203,3 +203,4 @@ class RecyclerViewAdapter (
             )
             return activityName
         }
+}
